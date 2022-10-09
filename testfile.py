@@ -1,3 +1,4 @@
-x = 123
-e = 'heelo word'
-print(str(x) + e)
+c = 'Привет, как дела? а?'.split()
+e = 'hello word'
+print(c)
+print(e)
